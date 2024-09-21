@@ -1,5 +1,5 @@
 # KNNClassifier-iris.csv-
-KNN- it is a distance based algorithm, lazy learner algorithm
+KNNClassifier- it is a distance based algorithm, lazy learner algorithm
 considers distances--from point to nearest neighbors--takes the majority
 to calculate distances bw 2 points:
 1.euclidean(p=2)
